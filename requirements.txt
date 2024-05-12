@@ -2,5 +2,4 @@ streamlit==1.30.0
 tensorflow==2.16.1
 streamlit_drawable_canvas
 keras==3.3.3
-io==0.3
 numpy
