@@ -1,0 +1,5 @@
+streamlit==1.30.0
+tensorflow.keras.models
+streamlit_drawable_canvas
+io
+numpy
